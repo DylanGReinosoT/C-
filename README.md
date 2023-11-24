@@ -31,7 +31,7 @@ Mediente la utilización de dos clases, la clase "Getente" que sera la clase pad
 3. Ejecuta la aplicación:
     * Como es una aplicación de consola se mostrada la consola del Visual Studio.
 4. Primera pantalla:
-    *  Lo que se mostrara en pantalla son 
+    *  Lo que se mostrara en pantalla son los datos de un empleado y un gerente.
 
 ## Autor
 
