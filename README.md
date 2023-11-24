@@ -24,13 +24,16 @@ Mediente la utilización de dos clases, la clase "Getente" que sera la clase pad
 
 ## Ejecución
 
-1. Navega hasta el directorio donde se encuentra la solución del proyecto.
-2. Compila el proyecto:
+1. Navega hasta la caarpeta en donde se encuentra el programa.
+2. Abre la carpeta por en donde se encuentra la solución.
+    * Cabe recalcar todo el aplicativo fue desarrollado en el entorno de Visual Studio.
+      
+4. Compila el proyecto:
     * Presiona Ctrl + F5 o ve al menú "Depuración" y selecciona "Iniciar sin depuración". Esto compilará tu programa y lo ejecutará.
       
-3. Ejecuta la aplicación:
+5. Ejecuta la aplicación:
     * Como es una aplicación de consola se mostrada la consola del Visual Studio.
-4. Primera pantalla:
+6. Primera pantalla:
     *  Lo que se mostrara en pantalla son los datos de un empleado y un gerente.
 
 ## Autor
