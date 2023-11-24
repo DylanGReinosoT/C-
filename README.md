@@ -13,19 +13,21 @@ Mediente la utilización de dos clases, la clase "Getente" que sera la clase pad
 1. Clona el repositorio:
 
     ```bash
-    git clone [https://github.com/usuario/nombre-repositorio.git](https://github.com/DylanGReinosoT/Csharp)
+    git clone https://github.com/usuario/nombre-repositorio.git
     ```
 
 2. Abre la solución en tu entorno de desarrollo preferido.
+
+   La solucion del programa se encuentra al abrir la carpeta "Herencia", con el nombre de "Herencia.sln"
 
 ## Ejecución
 
 1. Navega hasta el directorio donde se encuentra la solución del proyecto.
 2. Compila el proyecto:
-
-    ```bash
-    dotnet build
-    ```
+    * click en el boton inciar
+      ![Ejemplo de imagen](![image](https://github.com/DylanGReinosoT/Csharp/assets/87491610/103fe3a2-e9f9-464c-bed5-673904db07d9)
+)
+    * 
 
 3. Ejecuta la aplicación:
 
@@ -53,7 +55,7 @@ Cualquier información adicional relevante para el uso, instalación o desarroll
 
 ## Autor
 
-Tu nombre o alias. Puedes incluir tu correo electrónico o enlaces a tus perfiles en redes sociales si lo deseas.
+Dylan Gabriel Reinoso Torres
 
 ## Licencia
 
