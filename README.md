@@ -3,7 +3,7 @@
 
 Aplicativo de gestión de empleados
 
-##Descripcion
+## Descripcion
 
 Mediente la utilización de dos clases, la clase "Getente" que sera la clase padre y tendra como unico atributo el departammento al que pertenece y la clase "Empleado" esta contendra dos atributos que son el nombre y el salrio y un método donde sacaremos cuanto gana anualmente y por ultimo usaremos una interfaz, tambien conocida como clase abstracta en donde tendremos un metodo el que nos imprimira la información tanto del Gerente como a del empledo a lo que compilemos el codigo
 
