@@ -24,39 +24,13 @@ Mediente la utilización de dos clases, la clase "Getente" que sera la clase pad
 
 1. Navega hasta el directorio donde se encuentra la solución del proyecto.
 2. Compila el proyecto:
-    * click en el boton inciar
-      ![Ejemplo de imagen](![image](https://github.com/DylanGReinosoT/Csharp/assets/87491610/103fe3a2-e9f9-464c-bed5-673904db07d9)
-)
-    * 
-
+    * Presiona Ctrl + F5 o ve al menú "Depuración" y selecciona "Iniciar sin depuración". Esto compilará tu programa y lo ejecutará.
+      
 3. Ejecuta la aplicación:
-
-    ```bash
-    dotnet run
-    ```
-
-## Uso
-
-Describe cómo usar la aplicación, por ejemplo, los comandos disponibles, la interfaz de usuario, etc.
-
-## Pruebas
-
-- Explica cómo ejecutar las pruebas automatizadas, si las hay.
-- Proporciona ejemplos de comandos o casos de prueba.
-
-## Contribución
-
-- Explica cómo otros desarrolladores pueden contribuir al proyecto.
-- Describe el proceso de envío de solicitudes de extracción (pull requests).
-
-## Notas adicionales
-
-Cualquier información adicional relevante para el uso, instalación o desarrollo de la aplicación.
+    * Como es una aplicación de consola se mostrada la consola del Visual Studio
+      
 
 ## Autor
 
 Dylan Gabriel Reinoso Torres
 
-## Licencia
-
-Indica la licencia bajo la cual se comparte el proyecto.
