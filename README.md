@@ -1,19 +1,18 @@
 # CSharp
-# Nombre de la Aplicación
+# Ejercicio de Programacion Orientada a Obejtos (POO)
 
-Breve descripción de la aplicación y su propósito.
+Aplicativo de gestión de empleados
 
-## Requisitos
+##Descripcion
+Mediente la utilización de dos clases, la clase "Getente" que sera la clase padre y tendra como unico atributo el departammento al que pertenece y la clase "Empleado" esta contendra dos atributos que son el nombre y el salrio y un método donde sacaremos cuanto gana anualmente y por ultimo usaremos una interfaz, tambien conocida como clase abstracta en donde tendremos un metodo el que nos imprimira la información tanto del Gerente como a del empledo a lo que compilemos el codigo
 
-- [C# Compiler](link_a_descarga) - Indica cómo obtener el compilador C# si es necesario.
-- [Git](link_a_descarga) - Si se necesita clonar el repositorio desde GitHub.
 
 ## Instalación
 
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/usuario/nombre-repositorio.git
+    git clone [https://github.com/usuario/nombre-repositorio.git](https://github.com/DylanGReinosoT/Csharp)
     ```
 
 2. Abre la solución en tu entorno de desarrollo preferido.
